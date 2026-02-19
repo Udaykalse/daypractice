@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  todo:
+    build: .
+    container_name: react-todo-container
+    ports:
+      - "3000:80"
