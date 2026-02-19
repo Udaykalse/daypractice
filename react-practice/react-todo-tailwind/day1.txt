@@ -1,14 +1,72 @@
 Script started on 2026-02-19 20:14:23+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="177" LINES="12"]
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ npm run dev[K[K[K[K[K[K[K[K[K[K[Kls
+]0;
+\n jobprap2026/react-practice/react-todo-tailwind
+[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ npm run dev[K[K[K[K[K[K[K[K[K[K[Kls
 day1.txt  eslint.config.js  index.html  [0m[01;34mnode_modules[0m  package.json  package-lock.json  [01;34mpublic[0m  README.md  [01;34msrc[0m  vite.config.js
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ t
-ouch [K[A]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ touch Dockerfile
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ touch Dockerfile[K[K[K[K[K[K[K[K[K[K.dockerignore
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ touch .dockerignore[K[K[K[K[K[K[K[K[K[K[K[K[Kdocker-compose.yml
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ clear
-[H[2J[3J]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker build -t react-todo-app .
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ t
+
+ouch 
+[K[A]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ touch Dockerfile
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ touch Dockerfile[K[K[K[K[K[K[K[K[K[K.dockerignore
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ touch .dockerignore[K[K[K[K[K[K[K[K[K[K[K[K[Kdocker-compose.yml
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ clear
+[H[2J[3J]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker build -t react-todo-app .
 ERROR: Cannot connect to the Docker daemon at unix:///home/uday/.docker/desktop/docker.sock. Is the docker daemon running?
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker build -t react-todo-app .
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker build -t react-todo-app .
 [1A[1B[0G[?25l[+] Building 0.0s (0/0)  docker:desktop-linux
 [?25h[1A[0G[?25l[+] Building 0.0s (0/1)                                                             docker:desktop-linux
 [?25h[1A[0G[?25l[+] Building 0.2s (1/3)                                                             docker:desktop-linux
@@ -4612,20 +4670,33 @@ ERROR: Cannot connect to the Docker daemon at unix:///home/uday/.docker/desktop/
 [0m[?25h[1m
 What's Next?
 [0m  View a summary of image vulnerabilities and recommendations → [36mdocker scout quickview[0m
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker run -d -p 3000:80 --name todo-container react-todo-app
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker run -d -p 3000:80 --name todo-container react-todo-app
 881c3464c09962bb1d233c21794805313430a69e496110ad38abe9d8bcab73b0
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker ps
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker ps
 CONTAINER ID   IMAGE            COMMAND                  CREATED          STATUS          PORTS                  NAMES
 881c3464c099   react-todo-app   "/docker-entrypoint.…"   23 seconds ago   Up 22 seconds   0.0.0.0:3000->80/tcp   todo-container
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker stop todo-container
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker stop todo-container
 todo-container
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker rm todo-container
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker rm todo-container
 todo-container
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker rmi react-todo-app
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker rmi react-todo-app
 Untagged: react-todo-app:latest
 Deleted: sha256:f216f8362e8da6ad481a155a2db2f0a2b4d04bb0b9b547b3cb7c1ad36c4cf4b7
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker compose up --build
-[33mWARN[0m[0000] /home/uday/Desktop/job/jobprap2026/react-practice/react-todo-tailwind/docker-compose.yml: `version` is obsolete 
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker compose up --build
+[33mWARN[0m[0000] /home/uday/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind/docker-compose.yml: `version` is obsolete 
 [1A[1B[0G[?25l[+] Building 0.0s (0/1)                                                             docker:desktop-linux
 [?25h[1A[0G[?25l[+] Building 0.2s (1/3)                                                             docker:desktop-linux
 [34m => [todo internal] load build definition from Dockerfile                                           0.0s
@@ -5146,10 +5217,15 @@ Deleted: sha256:f216f8362e8da6ad481a155a2db2f0a2b4d04bb0b9b547b3cb7c1ad36c4cf4b7
 [?25h[1A[1A[0G[?25l[34m[+] Stopping 1/1[0m
  [32m✔[0m Container react-todo-container  [32mStopped[0m                                                          [34m0.2s [0m
 [?25hcanceled
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker ps
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
-]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[00m$ docker compose up
-[33mWARN[0m[0000] /home/uday/Desktop/job/jobprap2026/react-practice/react-todo-tailwind/docker-compose.yml: `version` is obsolete 
+]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ docker compose up
+[33mWARN[0m[0000] /home/uday/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind/docker-compose.yml: `version` is obsolete 
 [1A[1B[0G[?25l[+] Running 1/0
  [32m✔[0m Container react-todo-container  [32mCreated[0m                                                          [34m0.0s [0m
 [?25hAttaching to react-todo-container
@@ -5214,5 +5290,20 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 [36mreact-todo-container  | [0m2026/02/19 14:55:58 [notice] 1#1: signal 17 (SIGCHLD) received from 25
 [36mreact-todo-container  | [0m2026/02/19 14:55:58 [notice] 1#1: worker process 25 exited with code 0
 [36mreact-todo-container  | [0m2026/02/19 14:55:58 [notice] 1#1: exit
-[36m[Kreact-todo-container exited with code 0
-[0m]0;uday@uday: ~/Desktop/job/jobprap2026/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/react-practice/react-todo-ta
+[36m
+[Kreact-todo-container exited with code 0
+[0m]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ 
+[K]0;\njobprap2026
+/react-practice/react-todo-tailwind[01;32muday@uday[00m:[01;34m~/Desktop/job/\njobprap2026
+/react-practice/react-todo-tailwind[00m$ exit
+exit
+
+Script done on 2026-02-19 20:27:33+05:30 [COMMAND_EXIT_CODE="0"]
