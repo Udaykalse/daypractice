@@ -1,0 +1,12 @@
+🚀 Today I practiced Linux log monitoring basics "
+
+🚀 Today I practiced Linux log monitoring basics
+
+✅ Created app.log and added logs
+✅ Used cat, tail, tail -f for viewing live logs
+✅ Filtered INFO/Error logs using grep
+✅ Counted error lines using wc -l
+
+Small practice, but super useful for real-world troubleshooting 💡
+
+#Linux #TechnicalSupport #DevOps #Troubleshooting #Fresher #Learning

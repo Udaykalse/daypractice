@@ -1,0 +1,10 @@
+Script started on 2026-02-18 23:47:43+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;uday@uday: ~/Desktop/job/jobprap2026/linux-practice/day[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/linux-practice/day[00m$ mkdir textDemo
+]0;uday@uday: ~/Desktop/job/jobprap2026/linux-practice/day[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/linux-practice/day[00m$ cd textDemo/
+]0;uday@uday: ~/Desktop/job/jobprap2026/linux-practice/day/textDemo[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/linux-practice/day/textDemo[00m$ echo "Hello wor ld" >> hello.txt
+]0;uday@uday: ~/Desktop/job/jobprap2026/linux-practice/day/textDemo[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/linux-practice/day/textDemo[00m$ cat hello.txt 
+Hello world
+]0;uday@uday: ~/Desktop/job/jobprap2026/linux-practice/day/textDemo[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/linux-practice/day/textDemo[00m$ exit
+exit
+
+Script done on 2026-02-18 23:48:18+05:30 [COMMAND_EXIT_CODE="0"]
