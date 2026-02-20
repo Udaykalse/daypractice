@@ -1,0 +1,206 @@
+.dashboard-main {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.dashboard-header {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--text-light);
+}
+
+.header-subtitle {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  opacity: 0.7;
+}
+
+.page-title {
+  font-family: var(--font-serif);
+  font-size: 42px;
+  font-style: italic;
+}
+
+.header-actions {
+  display: flex;
+  gap: 16px;
+}
+
+.btn-pill {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text-light);
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  font-size: 12px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.btn-pill:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.4);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 24px;
+  flex: 1;
+}
+
+.stat-card {
+  background: linear-gradient(135deg, #2c4c63, #1f3546);
+  border-radius: var(--radius-lg);
+  padding: 32px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: var(--text-light);
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.stat-card.light {
+  background: linear-gradient(135deg, #e8d5c4, #e0c0a0);
+  color: var(--text-dark);
+}
+
+.stat-card.enrollment {
+  grid-column: span 2;
+  background: linear-gradient(to right, #243b4a, #1a2c38);
+}
+
+.stat-content {
+  position: relative;
+  z-index: 2;
+}
+
+.stat-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  opacity: 0.7;
+}
+
+.stat-value {
+  font-family: var(--font-sans);
+  font-size: 64px;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 8px;
+  letter-spacing: -2px;
+}
+
+.stat-value.serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.stat-trend {
+  font-size: 13px;
+  opacity: 0.6;
+  margin-top: 4px;
+}
+
+.stat-graph {
+  height: 60px;
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  margin-top: 24px;
+}
+
+.bar {
+  flex: 1;
+  background: rgba(255,255,255,0.2);
+  border-radius: 4px;
+}
+
+.bar.active {
+  background: #fff;
+}
+
+.stat-card.light .bar {
+  background: rgba(0,0,0,0.1);
+}
+
+.stat-card.light .bar.active {
+  background: var(--text-dark);
+}
+
+.gpa-breakdown {
+  margin-top: auto;
+}
+
+.gpa-item {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.gpa-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.gpa-subject {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.gpa-score {
+  font-size: 12px;
+}
+
+.enrollment-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.enrollment-breakdown {
+  display: flex;
+  gap: 32px;
+  margin-bottom: 8px;
+}
+
+.enrollment-label {
+  font-size: 11px;
+  opacity: 0.5;
+  text-transform: uppercase;
+}
+
+.enrollment-number {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.decor-orbit {
+  width: 200px;
+  height: 200px;
+  border: 0.5px solid rgba(255,255,255,0.3);
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  transform: rotate(-15deg);
+}
+
+.doodle-star {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 30px;
+  height: 30px;
+  opacity: 0.6;
+}
