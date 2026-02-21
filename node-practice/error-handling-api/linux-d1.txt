@@ -1,0 +1,56 @@
+Script started on 2026-02-21 22:52:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="154" LINES="28"]
+]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/error-handling-api[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/error-handling-api[00m$ PS1='\u:\W$ '[K'
+uday:error-handling-api$ [Kuday:error-handling-api$ npm init -y
+⠙[1G[0KWrote to /home/uday/Desktop/job/jobprap2026/node-practice/error-handling-api/package.json:
+
+{
+  "name": "error-handling-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
+
+
+
+⠙[1G[0Kuday:error-handling-api$ npm i express dotenv
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K
+added 66 packages, and audited 67 packages in 5s
+⠸[1G[0K
+⠸[1G[0K23 packages are looking for funding
+⠸[1G[0K  run `npm fund` for details
+⠸[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+⠸[1G[0Kuday:error-handling-api$ touch servej[Kr.js .env README.md
+uday:error-handling-api$ [Kuday:error-handling-api$ mkdir src
+uday:error-handling-api$ cd src/
+uday:src$ mkdir controllers models routes middleware utils
+uday:src$ cd controllers/
+uday:controllers$ touch userContr[K[K[K[K[K[K[K[K[KuserController.js
+uday:controllers$ cd ../m[K[K
+uday:src$ cd models/
+uday:models$ cd models/..[Ktouch userController.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.jsM.jso.jsd.jse.jsl.js
+uday:models$ cd ../routes/
+uday:routes$ cd ../routes/touch userModel.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.js[1Pjs[1Ps[K[K[K[KuserRoutes.js
+uday:routes$ cd ../middleware/
+uday:middleware$ cd ../middleware/touch userRoutes.js[K[K[K[K[K[K[K[K[K[K[K[K[KerrorMiddleware.js notFoundMiddleware.js
+uday:middleware$ cd ../utils/ touch asyncHandler.js
+bash: cd: too many arguments
+uday:middleware$ cd ../utils/ touch asyncHandler.js[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+uday:utils$ asyncHandler.jstasyncHandler.js[C[C[C[C[C[C[C[C[C[C[C[C[CoasyncHandler.jsuasyncHandler.jscasyncHandler.jshasyncHandler.js asyncHandler.js
+uday:utils$ cd ..
+uday:src$ cd ..
+uday:error-handling-api$ ls
+linux-d1.txt  package.json       README.md  [0m[01;34msrc[0m
+[01;34mnode_modules[0m  package-lock.json  server.js
+uday:error-handling-api$ touch .gitignore
+uday:error-handling-api$ [Kuday:error-handling-api$ [Kuday:error-handling-api$ [Kuday:error-handling-api$ exit 
+exit
+
+Script done on 2026-02-21 22:59:24+05:30 [COMMAND_EXIT_CODE="0"]
