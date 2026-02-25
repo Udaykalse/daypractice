@@ -1,0 +1,9 @@
+Day 2 - Permissions Notes
+
+1. rwx meaning
+2. 777 = full access to everyone
+3. 755 = owner full, others read + execute
+4. 644 = owner read/write, others read only
+5. chmod changes permission
+6. chown changes owner
+7. ls -l shows permissions

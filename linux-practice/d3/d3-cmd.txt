@@ -1,0 +1,52 @@
+/linux-practice/d3  cd linux-practice/d3
+/linux-practice/d3  ls
+/linux-practice/d3  mkdir test
+/linux-practice/d3  rmdir test/
+/linux-practice/d3  touch file1.txt
+/linux-practice/d3  cp file1.txt file2.txt 
+/linux-practice/d3  mv file2.txt 
+/linux-practice/d3  ls
+/linux-practice/d3  mkdir move
+/linux-practice/d3  mv file2.txt move/
+/linux-practice/d3  cd move/
+/linux-practice/d3  ls
+/linux-practice/d3  cd ..
+/linux-practice/d3  ls
+/linux-practice/d3  mv file1.txt reneamed.txt
+/linux-practice/d3  ls
+/linux-practice/d3  rm reneamed.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  mkdir permission
+/linux-practice/d3  touch test.txt
+/linux-practice/d3  ls
+/linux-practice/d3  cd permission/
+/linux-practice/d3  ls -la
+/linux-practice/d3  ls
+/linux-practice/d3  touch test.txt
+/linux-practice/d3  ls -la
+/linux-practice/d3  chmod 777 test.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  chmod 644 test.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  whoami
+/linux-practice/d3  group
+/linux-practice/d3  groups
+/linux-practice/d3  ls -la
+/linux-practice/d3  chmod 444 test.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  chmod 644 test.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  chmod 777 test.txt 
+/linux-practice/d3  ls -la
+/linux-practice/d3  exit
+/linux-practice/d3  ls
+/linux-practice/d3  mkdir d3
+/linux-practice/d3  cd d3
+/linux-practice/d3  script d3.txt
+/linux-practice/d3  ls
+/linux-practice/d3  ls -la
+/linux-practice/d3  cd 
+/linux-practice/d3  cd ..
+/linux-practice/d3  cd ~
+/linux-practice/d3  cd linux-practice/d3/
+/linux-practice/d3  history > d3-cmd/linux-practice/d3

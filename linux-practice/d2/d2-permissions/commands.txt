@@ -1,0 +1,1000 @@
+ 1021  ls
+ 1022  cd test/
+ 1023  npm run dev
+ 1024  git push
+ 1025  cd Javascript/J38
+ 1026  touch Demo{25..50}.js
+ 1027  node Demo30.js 
+ 1028  node Demo29.js 
+ 1029  node Demo25.js 
+ 1030  node Demo28.js 
+ 1031  node Demo27.js 
+ 1032  node Demo26.js 
+ 1033  node Demo46.js 
+ 1034  node Demo49.js 
+ 1035  node Demo47.js 
+ 1036  node Demo34.js 
+ 1037  node Demo36.js 
+ 1038  node Demo48.js 
+ 1039  cd Python/P37
+ 1040  touch App{1..25}.py
+ 1041  git push
+ 1042  cd node/
+ 1043  mkdir my-first-api
+ 1044  cd my-first-api/
+ 1045  npm init -y
+ 1046  npm i express
+ 1047  mkdir controllers models routes
+ 1048  ls
+ 1049  node server.js 
+ 1050  ls -la
+ 1051  node server.js 
+ 1052  git psuh
+ 1053  git push
+ 1054  cd node/
+ 1055  ls
+ 1056  mkdir helloworld
+ 1057  cd helloworld/
+ 1058  npm init -y
+ 1059  npm i express
+ 1060  touch server.js
+ 1061  node server.js 
+ 1062  cd node/
+ 1063  cd helloworld/
+ 1064  node server.js 
+ 1065  docker run -p 3000:3000 helloworld
+ 1066  docker build -t helloworld-api .
+ 1067  docker run -p 3000:3000 helloworld-api
+ 1068  git push
+ 1069  mkdir ~/email-checker
+ 1070  ls
+ 1071  mkdir ~/email-checker
+ 1072  cd email-checker
+ 1073  cd email/
+ 1074  docker pull reacherhq/backend:latest
+ 1075  cd email-check
+ 1076  mkdir email-check
+ 1077  cd email-check/
+ 1078  cat > emails.txt << 'EOF'
+ 1079  arvind.universalhr@gmail.com
+ 1080  mskhan618@gmail.com
+ 1081  ektajobs13@gmail.com
+ 1082  careermaker.educationsociety@gmail.com
+ 1083  hooda_deepu@yahoo.co.in
+ 1084  csd_car@hotmail.com
+ 1085  inspiron.hr@gmail.com
+ 1086  hr@adglobal360.com
+ 1087  anuragpriyaarora@yahoo.com
+ 1088  babu.lal@bmw-birdautomotive.in
+ 1089  sujit@careerlauncher.com
+ 1090  ceis.jobready@gmail.com
+ 1091  vaidhrandhirsinghr@gmail.com
+ 1092  angel.wadhwa03@gmail.com
+ 1093  dheerajobroi@yahoo.com
+ 1094  ankitjobs@yahoo.in
+ 1095  dsbjobsusa@gmail.com
+ 1096  shankar199339@gmail.com
+ 1097  hr@atcprecomp.com
+ 1098  shyam@shivainternational.com
+ 1099  suresh.tiwari@corporatespectrum.in
+ 1100  ashwini.n@os.hughes.in
+ 1101  ggn.jobs18@gmail.com
+ 1102  girraj@kumarprinters.com
+ 1103  careers@classteacher.com
+ 1104  saisolution.hr@gmail.com
+ 1105  datajobscare4u@gmail.com
+ 1106  jobnest2013@gmail.com
+ 1107  himanshijindal1990@gmail.com
+ 1108  hr@sestaindia.co.in
+ 1109  bigjobtree@gmail.com
+ 1110  careers@toshiba-india.com
+ 1111  hr@ampersand-design.in
+ 1112  dhermendra.kumar@in.yusen-logistics.com
+ 1113  thefresherjobs6@gmail.com
+ 1114  hr@fashionforever.biz
+ 1115  hr@bhartirealty.com
+ 1116  shruti.ftdar@gmail.com
+ 1117  qualityhr@mayomhospital.com
+ 1118  hr@exoticbuildcon.com
+ 1119  jobyjp107@gmail.com
+ 1120  jobs.for.hrd@gmail.com
+ 1121  hr@bagmaker.in
+ 1122  mkcareer8@gmail.com
+ 1123  jobyshekhar@yahoo.com
+ 1124  indiatimesjob6@gmail.com
+ 1125  vu2dhr@yahoo.com
+ 1126  cygnetjobwork@gmail.com
+ 1127  jobfairstreet@gmail.com
+ 1128  hr@orangemantra.com
+ 1129  hr@sofworld.org
+ 1130  ashutoshggn.hr@gmail.com
+ 1131  jobpoint85@gmail.com
+ 1132  hr@vulcancoldforge.com
+ 1133  suraj.yadavhr@gmail.com
+ 1134  support@jobma.com
+ 1135  tk.ecologicbuildingsystem@gmail.com
+ 1136  gmhr@chelseamills.com
+ 1137  satishsharma8086@gmail.com
+ 1138  anand.pasupatidhr@gmail.com
+ 1139  info.palakplastic@gmail.com
+ 1140  hr@taiindia.com
+ 1141  hr@lohia.im
+ 1142  dinesh.sautomation14@gmail.com
+ 1143  hrggn@spinksworld.com
+ 1144  hr@stalwarthomestyles.com
+ 1145  psahai.hr@gmail.com
+ 1146  jobs.lazerken@gmail.com
+ 1147  amitrealtyhr@gmail.com
+ 1148  sanguinejobs@gmail.com
+ 1149  pers.p3@markexhaust.com
+ 1150  admitjobs@gmail.com
+ 1151  maquettecareersketchers@gmail.com
+ 1152  hr@elementsexports.com
+ 1153  hr@giaclothings.com
+ 1154  jobsali101@gmail.com
+ 1155  job_1977@yahoo.co.in
+ 1156  hr@euronics.co.in
+ 1157  Sahiljob30@yahoo.com
+ 1158  hrjob.rd@gmail.com
+ 1159  hr@amp-india.com
+ 1160  hr@seikoadvance.co.in
+ 1161  kpsjobsolution@gmail.com
+ 1162  thegodcans@gmail.com
+ 1163  vinmindjob@gmail.com
+ 1164  shilpimthr@gmail.com
+ 1165  abhimanyu2900@gmail.com
+ 1166  careers.gurgaon@gmail.com
+ 1167  sanjeev.mycareer@gmail.com
+ 1168  vancareequipmentcorp@gmail.com
+ 1169  Harshal.onjob@gmail.com
+ 1170  dudejachhavi@gmail.com
+ 1171  vcareenterprises01@gmail.com
+ 1172  abhishek@kickstartjobs.in
+ 1173  sainathjobs@gmail.com
+ 1174  jspundeer1974@gmail.com
+ 1175  hr@surbhituff.com
+ 1176  sagunjobs@gmail.com
+ 1177  rati.nahata.jain@gmail.com
+ 1178  ashokraonnlhr@gmail.com
+ 1179  sunaina.futurehr@gmail.com
+ 1180  balwinder.moar@advik.co.in
+ 1181  joby3566@yahoo.co.in
+ 1182  nfl.ashish.hr@yahoo.com
+ 1183  aircareengineers2005@gmail.com
+ 1184  job.corporate24@gmail.com
+ 1185  ashwini.ttsipl@gmail.com
+ 1186  itcareermentors@gmail.com
+ 1187  hr@athomeplc.com
+ 1188  risingcareers28@gmail.com
+ 1189  nfl.ashish.hr@gmail.com
+ 1190  idigitalprint@gmail.com
+ 1191  jobspankaj007@gmail.com
+ 1192  hr@amassskillventures.in
+ 1193  promotecareers@gmail.com
+ 1194  hr@eseosolutions.com
+ 1195  skrajobra.2008@gmail.com
+ 1196  nathenhr@gmail.com
+ 1197  gurgaon@careerlauncher.com
+ 1198  hr@wingscorporate.in
+ 1199  rohankaikinijobs@gmail.com
+ 1200  pacificparasinfrahr@gmail.com
+ 1201  kumarirenu012@gmail.com
+ 1202  rkehr@adityadispomed.com
+ 1203  sonaligarg125@gmail.com
+ 1204  jobservices@gmail.com
+ 1205  manikantsinghr@gmail.com
+ 1206  icssgurgaonhr@gmail.com
+ 1207  sameer.jobbox@gmail.com
+ 1208  cschandrahr@gmail.com
+ 1209  job4sandeep@gmail.com
+ 1210  ncrcareer@gmail.com
+ 1211  tiptel.in@gmail.com
+ 1212  lineshvelur@gmail.com
+ 1213  career@datainfovision.com
+ 1214  intellisensesoft@gmail.com
+ 1215  jobnersteelfabrication@gmail.com
+ 1216  muditvashistha1@gmail.com
+ 1217  sombirchauhan2@gmail.com
+ 1218  admin.hr@libsys.co.in
+ 1219  nehatiwari0593@gmail.com
+ 1220  kuldeepsinghjkhr@gmail.com
+ 1221  gsshitaljob@yahoo.in
+ 1222  gauravmarketingjob@gmail.com
+ 1223  aswini.shtc@gmail.com
+ 1224  shrishyamjob@gmail.com
+ 1225  hr@sgmpaper.com
+ 1226  hr@vinspirer.com
+ 1227  aseggnhr@gmail.com
+ 1228  sania.hr@gmail.com
+ 1229  amrita@opicle.org
+ 1230  info@jnitin.com
+ 1231  career401@gmail.com
+ 1232  bipin.gclhr@gmail.com
+ 1233  jobscom88@gmail.com
+ 1234  JobzTel@gmail.com
+ 1235  indianglasshr@gmail.com
+ 1236  sushil.singh.hr@gmail.com
+ 1237  somyasharotrihr@gmail.com
+ 1238  piyushonlinejob1@gmail.com
+ 1239  rkenergyhr@gmail.com
+ 1240  Gurgaon@jobexpertsindia.com
+ 1241  delhibankjobs@gmail.com
+ 1242  jobs4arvind@gmail.com
+ 1243  kamal.job@gmail.com
+ 1244  arjunrthr@yahoo.com
+ 1245  chiragverma2207@yahoo.com
+ 1246  namita.lohani@gmail.com
+ 1247  bharatlalsharma1886@gmail.com
+ 1248  hr@abia.in
+ 1249  hitec.career@gmail.com
+ 1250  texasales1@gmail.com
+ 1251  realgenuinejob@gmail.com
+ 1252  hr@dlifestyle.in
+ 1253  hr@qcd.in
+ 1254  sanjeevjobs77@gmail.com
+ 1255  rbsinghr@gmail.com
+ 1256  hr@windsorexports.com
+ 1257  satishsingh_66@yahoo.co.in
+ 1258  vipan.hr@gmail.com
+ 1259  avneesh.hr@gmail.com
+ 1260  hr@cityinnovates.com
+ 1261  prtshr@yahoo.co.in
+ 1262  hr@stella-indusstries.com
+ 1263  hr@superindia.co.in
+ 1264  sharmajobservice@gmail.com
+ 1265  info@g-eng.in
+ 1266  arvind_gujjar@yahoo.com
+ 1267  HR@gojavas.com
+ 1268  sanjaysinghr@gmail.com
+ 1269  bluedream.jobs@gmail.com
+ 1270  hr@neelkanthhospital.com
+ 1271  ramsewakdasandcompany@gmail.com
+ 1272  hr@dynamicdesigns.in
+ 1273  gajender1984@gmail.com
+ 1274  dc.chhr@gmail.com
+ 1275  Ashish.id.jobs@gmail.com
+ 1276  divayasiwan@gmail.com
+ 1277  hr@sidharthagroup.com
+ 1278  payalmanesar@gmail.com
+ 1279  sai.jobpoint@gmail.com
+ 1280  wexper.hr@gmail.com
+ 1281  prabharawat71@gmail.com
+ 1282  gurgaonjobportal@gmail.com
+ 1283  yasinjkkhan@gmail.com
+ 1284  meghajha810@gmail.com
+ 1285  ankit.chopade@bny.com
+ 1286  arpit.kher@bny.com
+ 1287  satish.kumar51@ibm.com
+ 1288  hr@juno.org.in
+ 1289  apurva.pachpor@juno.org.in
+ 1290  carrers@mapmyindia.com
+ 1291  hr@prometteursolutions.com
+ 1292  harpreetkaur1@programming.com
+ 1293  hr@alohatechnology.com
+ 1294  veshali.wanchoo@wipro.com
+ 1295  neha.nandgaye2@ibm.com
+ 1296  EOF
+ 1297  docker run -d -p 8080:8080 --name email-checker reacherhq/backend:latest
+ 1298  cat > check_emails.py << 'EOF'
+ 1299  #!/usr/bin/env python3
+ 1300  import requests
+ 1301  import json
+ 1302  import time
+ 1303  from datetime import datetime
+ 1304  # Read emails
+ 1305  with open('emails.txt', 'r') as f:
+ 1306      emails = [line.strip() for line in f if line.strip()]
+ 1307  print(f"Total emails to check: {len(emails)}")
+ 1308  print("Starting email verification...\n")
+ 1309  results = []
+ 1310  valid_emails = []
+ 1311  invalid_emails = []
+ 1312  unknown_emails = []
+ 1313  for i, email in enumerate(emails, 1):
+ 1314      print(f"[{i}/{len(emails)}] Checking: {email}...", end=" ")
+ 1315      
+ 1316      try:
+ 1317          response = requests.post(
+ 1318              'http://localhost:8080/v0/check_email',
+ 1319              json={'to_email': email},
+ 1320              timeout=30
+ 1321          )
+ 1322          
+ 1323          if response.status_code == 200:
+ 1324              result = response.json()
+ 1325              is_reachable = result.get('is_reachable', 'unknown')
+ 1326              
+ 1327              results.append({
+ 1328                  'email': email,
+ 1329                  'is_reachable': is_reachable,
+ 1330                  'syntax_valid': result.get('syntax', {}).get('is_valid_syntax'),
+ 1331                  'full_result': result
+ 1332              })
+ 1333              
+ 1334              # Categorize
+ 1335              if is_reachable == 'safe':
+ 1336                  valid_emails.append(email)
+ 1337                  print("✓ VALID")
+ 1338              elif is_reachable == 'invalid':
+ 1339                  invalid_emails.append(email)
+ 1340                  print("✗ INVALID")
+ 1341              else:
+ 1342                  unknown_emails.append(email)
+ 1343                  print("? UNKNOWN")
+ 1344          else:
+ 1345              print(f"ERROR: {response.status_code}")
+ 1346              
+ 1347      except Exception as e:
+ 1348          print(f"ERROR: {str(e)}")
+ 1349          results.append({
+ 1350              'email': email,
+ 1351              'error': str(e)
+ 1352          })
+ 1353      
+ 1354      # Rate limiting - be nice to servers
+ 1355      time.sleep(2)
+ 1356  # Save detailed results
+ 1357  timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+ 1358  with open(f'results_detailed_{timestamp}.json', 'w') as f:
+ 1359      json.dump(results, f, indent=2)
+ 1360  # Save categorized lists
+ 1361  with open(f'valid_emails_{timestamp}.txt', 'w') as f:
+ 1362      f.write('\n'.join(valid_emails))
+ 1363  with open(f'invalid_emails_{timestamp}.txt', 'w') as f:
+ 1364      f.write('\n'.join(invalid_emails))
+ 1365  with open(f'unknown_emails_{timestamp}.txt', 'w') as f:
+ 1366      f.write('\n'.join(unknown_emails))
+ 1367  # Summary
+ 1368  print("\n" + "="*50)
+ 1369  print("VERIFICATION COMPLETE")
+ 1370  print("="*50)
+ 1371  print(f"Total checked: {len(emails)}")
+ 1372  print(f"Valid: {len(valid_emails)}")
+ 1373  print(f"Invalid: {len(invalid_emails)}")
+ 1374  print(f"Unknown: {len(unknown_emails)}")
+ 1375  print(f"\nResults saved:")
+ 1376  print(f"  - results_detailed_{timestamp}.json")
+ 1377  print(f"  - valid_emails_{timestamp}.txt")
+ 1378  print(f"  - invalid_emails_{timestamp}.txt")
+ 1379  print(f"  - unknown_emails_{timestamp}.txt")
+ 1380  EOF
+ 1381  chmod +x check_emails.py
+ 1382  python3 check_emails.py
+ 1383  rm check_emails.py
+ 1384  nano check_emails.py
+ 1385  chmod +x check_emails.py
+ 1386  python3 check_emails.py
+ 1387  docker stop email-checker 2>/dev/null
+ 1388  docker rm email-checker 2>/dev/null
+ 1389  docker run -d -p 8080:8080 --name email-checker reacherhq/backend:latest
+ 1390  echo "Waiting for container to start..."
+ 1391  sleep 10
+ 1392  docker ps | grep email-checker
+ 1393  git push
+ 1394  code .
+ 1395  code .
+ 1396  docker run health-monitor
+ 1397  ls
+ 1398  chmod +x monitor.py
+ 1399  python3 monitor.py 
+ 1400  node app
+ 1401  node App.jsx 
+ 1402  docker build -t health-monitor
+ 1403  docker build -t health-monitor .
+ 1404  docker run health-monitor
+ 1405  docker run health-monitor python3 /usr/local/bin/monitor.py
+ 1406  docker-compose up
+ 1407  docker-compose logs -f
+ 1408  npm i
+ 1409  docker build -t health-monitor .
+ 1410  code .
+ 1411  ls
+ 1412  git psuh
+ 1413  git push
+ 1414  cd D
+ 1415  cd Dom
+ 1416  cd todo
+ 1417  ls
+ 1418  mkdir -p day2/linux-practice
+ 1419  cd day2/linux-practice/
+ 1420  touch notes.txt demo.txt
+ 1421  echo 'Day 2 Liux practice' > notes.txt 
+ 1422  cat notes.txt 
+ 1423  whoami
+ 1424  uname -a
+ 1425  date
+ 1426  pwd
+ 1427  ls -la
+ 1428  chmod 700 demo.txt 
+ 1429  ls -l
+ 1430  cd ..
+ 1431  docker run -it --name day2   -v /home/uday/projects/day2:/app   ubuntu bash
+ 1432  docker run -it --name day2   -v /home/uday/projects/day2:/app   ubuntu bash
+ 1433  docker run -it --rm   -v /home/uday/linux_mastery/day2:/app   ubuntu:latest bash
+ 1434  cd
+ 1435  mkdir local
+ 1436  cd local/
+ 1437  pwd
+ 1438  docker run -it --rm -v /home/uday/local:/app ubuntu:latest bash
+ 1439  cd day2/
+ 1440  pwd
+ 1441  ls
+ 1442  cd
+ 1443  pwd
+ 1444  ls
+ 1445  cd linux_mastery/
+ 1446  cd day2/
+ 1447  cd ..
+ 1448  ls
+ 1449  cd day2/
+ 1450  ls
+ 1451  cd ../..
+ 1452  cd local/
+ 1453  ls
+ 1454  cat parvej.txt 
+ 1455  echo 'want to fuck him and mt my balls' parvej.txt 
+ 1456  echo 'want to fuck him and mt my balls' > parvej.txt 
+ 1457  cd Javascript/
+ 1458  cd J41
+ 1459  touch App{1..10}.js
+ 1460  node App10.js 
+ 1461  node App9.js 
+ 1462  node App8.js 
+ 1463  node App7.js 
+ 1464  node App6.js 
+ 1465  node App5.js 
+ 1466  node App4.js 
+ 1467  node App3.js 
+ 1468  node App2.js 
+ 1469  node App1.js 
+ 1470  git push
+ 1471  cd Dom/
+ 1472  cd D9/
+ 1473  touch index{1..5}.html
+ 1474  touch index{6..10}.html
+ 1475  git push
+ 1476  cd Javascript/J42
+ 1477  touch App{1..20}.js
+ 1478  node App2.js 
+ 1479  node App4.js 
+ 1480  node App6.js 
+ 1481  node App8.js 
+ 1482  node App10.js 
+ 1483  node App1.js 
+ 1484  node App7.js 
+ 1485  node App5.js 
+ 1486  node App9.js 
+ 1487  node App3.js 
+ 1488  node App18.js 
+ 1489  node App12.js 
+ 1490  node App16.js 
+ 1491  node App14.js 
+ 1492  node App11.js 
+ 1493  node App19.js 
+ 1494  node App17.js 
+ 1495  node App15.js 
+ 1496  node App13.js 
+ 1497  git push
+ 1498  cd react/test/
+ 1499  npm run dev
+ 1500  npm i react-router-dom
+ 1501  npm run dev
+ 1502  cd react/
+ 1503  cd test/
+ 1504  cd src/D2/
+ 1505  touch Demo{1..10}.jsx
+ 1506  git push
+ 1507  npm run dev
+ 1508  git push
+ 1509  git pull origin main --rebase
+ 1510  git push origin main
+ 1511  cd react/test/src/D3/
+ 1512  touch Test{1..10}.jsx
+ 1513  cd react/test/
+ 1514  npm run dev
+ 1515  cd ..
+ 1516  cd J43
+ 1517  touch App{81..101}.js
+ 1518  node App101.js 
+ 1519  node App98.js 
+ 1520  node App95.js 
+ 1521  node App92.js 
+ 1522  node App86.js 
+ 1523  node App83.js 
+ 1524  node App89.js 
+ 1525  node App100.js 
+ 1526  node App87.js 
+ 1527  node App93.js 
+ 1528  node App85.js 
+ 1529  node App81.js 
+ 1530  node App90.js 
+ 1531  node App97.js 
+ 1532  node App99.js 
+ 1533  node App96.js 
+ 1534  node App94.js 
+ 1535  node App91.js 
+ 1536  node App88.js 
+ 1537  node App84.js 
+ 1538  node App82.js 
+ 1539  cd..
+ 1540  cd ..
+ 1541  cd J44
+ 1542  touch Demo{1..20}.js
+ 1543  node Demo20.js 
+ 1544  node Demo18.js 
+ 1545  node Demo6.js 
+ 1546  node Demo10.js 
+ 1547  node Demo2.js 
+ 1548  node Demo4.js 
+ 1549  node Demo8.js 
+ 1550  node Demo12.js 
+ 1551  node Demo8.js 
+ 1552  node Demo12.js 
+ 1553  node Demo14.js 
+ 1554  node Demo16.js 
+ 1555  node Demo19.js 
+ 1556  node Demo17.js 
+ 1557  node Demo15.js 
+ 1558  node Demo11.js 
+ 1559  node Demo9.js 
+ 1560  node Demo7.js 
+ 1561  node Demo5.js 
+ 1562  node Demo3.js 
+ 1563  node Demo1.js 
+ 1564  git push
+ 1565  cd react/test/D4
+ 1566  cd react/test/src/D4
+ 1567  touch pDemo{1..10}.jsx
+ 1568  cd Javascript/J45/
+ 1569  touch App{100..120}.jsx
+ 1570  touch App{100..120}.js
+ 1571  node App106.js 
+ 1572  node App105.js 
+ 1573  node App104.js 
+ 1574  node App115.js 
+ 1575  node App118.js 
+ 1576  node App112.js 
+ 1577  node App103.js 
+ 1578  node App102.js 
+ 1579  node App101.js 
+ 1580  node App100.js 
+ 1581  clear
+ 1582  node App111.js 
+ 1583  node App109.js 
+ 1584  node App110.js 
+ 1585  node App107.js 
+ 1586  node App108.js 
+ 1587  node App116.js 
+ 1588  node App113.js 
+ 1589  node App114.js 
+ 1590  node App117.js 
+ 1591  node App119.js 
+ 1592  node App120.js 
+ 1593  git push
+ 1594  cd node/fs-json-rwx/
+ 1595  npm init -y
+ 1596  touch data.json index.js
+ 1597  node index.js 
+ 1598  touch .gitignore
+ 1599  mkdir linux-d1
+ 1600  cd linux-d1/
+ 1601  touch day1-basics.txt
+ 1602  cd Javascript/J46
+ 1603  touch App{1..20}.js
+ 1604  node App16.js 
+ 1605  node App17.js 
+ 1606  node App18.js 
+ 1607  node App19.js 
+ 1608  node App20.js 
+ 1609  cd Javascript/J46
+ 1610  node App11.js 
+ 1611  node App12.js 
+ 1612  node App14.js 
+ 1613  node App15.js 
+ 1614  node App1.js 
+ 1615  node App7.js 
+ 1616  node App8.js 
+ 1617  node App9.js 
+ 1618  node App10.js 
+ 1619  node App13.js 
+ 1620  node App2.js 
+ 1621  node App3.js 
+ 1622  node App4.js 
+ 1623  node App5.js 
+ 1624  node App6.js 
+ 1625  touch Demo{1..5}.js
+ 1626  touch Demo1.js
+ 1627  node Demo1.js
+ 1628  node Demo5.js
+ 1629  node Demo4.js
+ 1630  node Demo3.js
+ 1631  node Demo2.js
+ 1632  node Demo1.js
+ 1633  touch Demo{6..15}.js
+ 1634  node Demo7.js
+ 1635  node Demo9.js
+ 1636  node Demo11.js
+ 1637  node Demo13.js
+ 1638  node Demo15.js
+ 1639  node Demo10.js
+ 1640  node Demo9.js
+ 1641  node Demo6.js
+ 1642  node Demo8.js
+ 1643  node Demo12.js
+ 1644  node Demo14.js
+ 1645  git push
+ 1646  cd node/
+ 1647  ls
+ 1648  mkdir exp-mid
+ 1649  cd exp-mid/
+ 1650  npm init -y
+ 1651  npm i express
+ 1652  touch index.js
+ 1653  cd node/exp-mid/
+ 1654  curl -H "x-auth-token: 12345" http://localhost:5000/dashboard
+ 1655  cd node/exp-mid/
+ 1656  node index.js 
+ 1657  touch log.json
+ 1658  node index.js 
+ 1659  touch .gitignore
+ 1660  node index.js 
+ 1661  touch Dockerfile
+ 1662  docker build -t exp-mid .
+ 1663  docker run -p 5000:5000 exp-mid
+ 1664  git push
+ 1665  mkdir jobprap2026
+ 1666  cd jobprap2026/
+ 1667  mkdir react-practice node-practice docker-practice linux-practice
+ 1668  cd linux-practice/
+ 1669  mkdir day1-basics
+ 1670  cd day1-basics/
+ 1671  touch commands.txt
+ 1672  pwd
+ 1673  ls
+ 1674  ls -la
+ 1675  mkdir test
+ 1676  touch test1.txt
+ 1677  echo "hello linux" > file1.txt
+ 1678  cat file1.txt 
+ 1679  cp file1.txt copy.txt
+ 1680  rm moved.txt 
+ 1681  ls
+ 1682  cat test
+ 1683  cat test1.txt 
+ 1684  echo "tets " > test1.txt 
+ 1685  cat test1.txt 
+ 1686  clear
+ 1687  mkdir log
+ 1688  cd log/
+ 1689  echo "INFO server started" >> app.log
+ 1690  echo "Error api failed" >> app.log
+ 1691  echo "INFO user login" >> app.log
+ 1692  echo "Error db down" >> app.log
+ 1693  cat app.log 
+ 1694  tail app.log 
+ 1695  tail -f app.log 
+ 1696  grep "ERROR" app.log
+ 1697  gerp "INFO" app.log 
+ 1698  grep "INFO" app.log 
+ 1699  grep "Error" app.log
+ 1700  grep -n -i "error" app.log 
+ 1701  grep -n -i "error" app.log | wc -l
+ 1702  touch dayPost.txt
+ 1703  echo "🚀 Today I practiced Linux log monitoring basics"
+ 1704  ✅ Created app.log and added logs
+ 1705  ✅ Used cat, tail, tail -f for viewing live logs
+ 1706  ✅ Filtered INFO/Error logs using grep
+ 1707  ✅ Counted error lines using wc -l
+ 1708  Small practice, but super useful for real-world troubleshooting 💡
+ 1709  🚀 Today I practiced Linux log monitoring basics
+ 1710  ✅ Created app.log and added logs
+ 1711  ✅ Used cat, tail, tail -f for viewing live logs
+ 1712  ✅ Filtered INFO/Error logs using grep
+ 1713  ✅ Counted error lines using wc -l
+ 1714  Small practice, but super useful for real-world troubleshooting 💡
+ 1715  #Linux #TechnicalSupport #DevOps #Troubleshooting #Fresher #Learning" > dayPost.txt
+ 1716  cat dayPost.txt 
+ 1717  mkdir one
+ 1718  cd one
+ 1719  touch ac.txt
+ 1720  ls
+ 1721  exit
+ 1722  script linux-pract.log
+ 1723  mkdir day
+ 1724  cd day
+ 1725  exit
+ 1726  cat linux-pract.log 
+ 1727  mkdir textDemo
+ 1728  cd textDemo/
+ 1729  echo "Hello world" >> hello.txt
+ 1730  cat hello.txt 
+ 1731  exit
+ 1732  script day1.log
+ 1733  git init
+ 1734  git add .
+ 1735  git commit -m "First day"
+ 1736  git branch -M main
+ 1737  git remote add origin git@github.com:Udaykalse/daypractice.git
+ 1738  git push -u origin main
+ 1739  code .
+ 1740  cd react-practice/react-todo-tailwind/
+ 1741  ls
+ 1742  exit
+ 1743  git push
+ 1744  exit
+ 1745  cd react-practice/
+ 1746  cd react-todo-tailwind/
+ 1747  cd src/components/
+ 1748  touch TodoForm.jsx TodoItem.jsx TodoList.jsx TodoFilters.jsx
+ 1749  cd ..
+ 1750  cd hooks/
+ 1751  touch useLocalStorage.js
+ 1752  cd ..
+ 1753  cd utils/
+ 1754  touch todoHelpers.js
+ 1755  cd ..
+ 1756  script cmd.txt
+ 1757  cd pages/
+ 1758  touch Home.jsx
+ 1759  cd ..
+ 1760  cd ../..
+ 1761  cd react-todo-tailwind/
+ 1762  touch .gitignore
+ 1763  npm run dev
+ 1764  cd react-practice/
+ 1765  npm create vite@latest react-todo-tailwind -- --template react
+ 1766  cd react-todo-tailwind/
+ 1767  npm install tailwindcss @tailwindcss/vite
+ 1768  cd ..
+ 1769  mkdir test
+ 1770  cd react-todo-tailwind/
+ 1771  npm run dev
+ 1772  exit
+ 1773  git push
+ 1774  exit
+ 1775  docker ps
+ 1776  exit
+ 1777  ls
+ 1778  touch Dockerfile
+ 1779  touch .dockerignore
+ 1780  touch docker-compose.yml
+ 1781  clear
+ 1782  docker build -t react-todo-app .
+ 1783  docker run -d -p 3000:80 --name todo-container react-todo-app
+ 1784  docker ps
+ 1785  docker stop todo-container
+ 1786  docker rm todo-container
+ 1787  docker rmi react-todo-app
+ 1788  docker compose up --build
+ 1789  docker ps
+ 1790  docker compose up
+ 1791  exit
+ 1792  cd react-practice/react-todo-tailwind/
+ 1793  script day1.txt
+ 1794  git push
+ 1795  touch App{1..20}.js
+ 1796  node App5.js 
+ 1797  node App4.js 
+ 1798  node App3.js 
+ 1799  node App2.js 
+ 1800  node App.js 
+ 1801  node App1.js 
+ 1802  exit
+ 1803  cd Javascript/JLP1/
+ 1804  script j.txt
+ 1805  pwd
+ 1806  git push
+ 1807  exit
+ 1808  node App16.js 
+ 1809  node App17.js 
+ 1810  node App18.js 
+ 1811  node App19.js 
+ 1812  node App20.js 
+ 1813  node App15.js 
+ 1814  node App14.js 
+ 1815  node App13.js 
+ 1816  node App12.js 
+ 1817  node App11.js 
+ 1818  node App10.js 
+ 1819  node App9.js 
+ 1820  node App8.js 
+ 1821  node App7.js 
+ 1822  node App6.js 
+ 1823  exit
+ 1824  cd Javascript/JLP1/
+ 1825  script j.txt 
+ 1826  mkdir node-prap
+ 1827  cd node-prap/
+ 1828  npm init -y
+ 1829  npm i express
+ 1830  exit
+ 1831  cd node-practice/
+ 1832  cd node
+ 1833  ls
+ 1834  docker run -p 5000:5000 -v $(pwd)/data.json:/app/data.json simple-crud-app
+ 1835  cd node-practice/
+ 1836  ls
+ 1837  mkdir test
+ 1838  ls
+ 1839  cd curd-node/
+ 1840  node s
+ 1841  node server.js 
+ 1842  docker run -p 5000:5000 simple-crud-app
+ 1843  cd node-practice/
+ 1844  script
+ 1845  touch server.js data.json
+ 1846  mkdir src
+ 1847  cd src/
+ 1848  mkdir routes controllers models
+ 1849  cd routes/
+ 1850  touch userRoutes.js
+ 1851  cd ../controllers/
+ 1852  touch userController.js
+ 1853  cd ../models/
+ 1854  touch userModel.js
+ 1855  cd ../../
+ 1856  ls
+ 1857  node server.js 
+ 1858  ls
+ 1859  npm install express
+ 1860  node server.js 
+ 1861  touch .gitignore README.md
+ 1862  touch Dockerfile
+ 1863  touch .dockerignore
+ 1864  docker build -t simple-crud-app .
+ 1865  docker image
+ 1866  docker images
+ 1867  docker run -p 5001:5001 simple-crud-app
+ 1868  ls
+ 1869  curl -X POST http://localhost:5000/users
+ 1870  cd node-practice/curd-node/
+ 1871  node --inspect server.js
+ 1872  docker ps
+ 1873  docker simple-curd-app
+ 1874  docker image simple-curd-app
+ 1875  docker ps
+ 1876  exit
+ 1877  cd node-practice/
+ 1878  cd curd-node/
+ 1879  node server.js 
+ 1880  docker run -p 5001:5001 simple-crud-app
+ 1881  exit
+ 1882  code .
+ 1883  ls
+ 1884  cd student-management-system/
+ 1885  npm run dev
+ 1886  npm create vite@latest student-management-system -- --template react
+ 1887  cd student-management-system/
+ 1888  ls
+ 1889  cd src
+ 1890  mkdir components
+ 1891  touch NavDock.jsx StudentList.jsx Dashboard.jsx
+ 1892  touch ScheduleWidget.jsx Button.jsx CalendarCell.jsx AssignmentItem.jsx
+ 1893  ls
+ 1894  cd student-management-system/
+ 1895  ls
+ 1896  npm run dev
+ 1897  git push
+ 1898  npm run
+ 1899  npm run dev
+ 1900  ls
+ 1901  cd ..
+ 1902  ls
+ 1903  mkdir portfolioClone
+ 1904  cd portfolioClone/
+ 1905  git clone https://github.com/rinkitadhana/Github-repo-Portfolio.git
+ 1906  code .
+ 1907  cd Github-repo-Portfolio/
+ 1908  npm i
+ 1909  npm run dev
+ 1910  git clone https://github.com/rinkitadhana/switchfolio
+ 1911  cd switchfolio/
+ 1912  npm install
+ 1913  npm rund ev
+ 1914  npm rund dev
+ 1915  npm run
+ 1916  npm run dev
+ 1917  cd Javascript/J47
+ 1918  touch app{1..25}.js
+ 1919  git push
+ 1920  node app10.js 
+ 1921  node app9.js 
+ 1922  node app8.js 
+ 1923  node app7.js 
+ 1924  node app6.js 
+ 1925  node app5.js 
+ 1926  node app4.js 
+ 1927  node app3.js 
+ 1928  node app2.js 
+ 1929  node app1.js 
+ 1930  node app16.js 
+ 1931  node app17.js 
+ 1932  node app19.js 
+ 1933  node app20.js 
+ 1934  node app21.js 
+ 1935  node app22.js 
+ 1936  node app23.js 
+ 1937  node app24.js 
+ 1938  node app25.js 
+ 1939  node app15.js 
+ 1940  node app14.js 
+ 1941  node app13.js 
+ 1942  node app12.js 
+ 1943  node app11.js 
+ 1944  git init
+ 1945  git add .
+ 1946  git commit -m "first commit"
+ 1947  git branch -M main
+ 1948  git remote add origin git@github.com:Udaykalse/Personal-Info.git
+ 1949  git push -u origin main
+ 1950  cd node-practice/
+ 1951  mkdir error-handling-api
+ 1952  cd error-handling-api/
+ 1953  PS1='\u:\W$ '
+ 1954  npm init -y
+ 1955  npm i express dotenv
+ 1956  touch server.js .env README.md
+ 1957  mkdir src
+ 1958  cd src/
+ 1959  mkdir controllers models routes middleware utils
+ 1960  cd controllers/
+ 1961  touch userController.js
+ 1962  cd ..
+ 1963  cd models/
+ 1964  touch userModel.js
+ 1965  cd ../routes/
+ 1966  touch userRoutes.js
+ 1967  cd ../middleware/
+ 1968  touch errorMiddleware.js notFoundMiddleware.js
+ 1969  cd ../utils/ touch asyncHandler.js
+ 1970  cd ../utils/ 
+ 1971  touch asyncHandler.js
+ 1972  cd ..
+ 1973  ls
+ 1974  touch .gitignore
+ 1975  exit 
+ 1976  PS1='\u:\W$ '
+ 1977  ls
+ 1978  mkdir d2
+ 1979  mv linux-d2.txt d2
+ 1980  cd d2/
+ 1981  mkdir d2-permissions
+ 1982  cd d2-permissions/
+ 1983  touch notes.txt commands.txt test.txt
+ 1984  ls -l
+ 1985  chmod 777 test.txt 
+ 1986  ls -l
+ 1987  chmod 444 test.txt 
+ 1988  ls -l
+ 1989  nano test.txt
+ 1990  chmod 644 test.txt 
+ 1991  nano test.txt 
+ 1992  cat test.txt 
+ 1993  cd ..
+ 1994  ls
+ 1995  mkdir scenario
+ 1996  cd scenario/
+ 1997  touch run.sh
+ 1998  echo "echo Hello linux" > run.sh 
+ 1999  chmod 777 run.sh 
+ 2000  ./run.sh 
+ 2001  cd ../
+ 2002  mkdir scenario1
+ 2003  cd scenario1/
+ 2004  whoami
+ 2005  groups
+ 2006  cd ..
+ 2007  ls
+ 2008  rm -rf scenario1/
+ 2009  ls
+ 2010  cd d2-permissions/
+ 2011  ls
+ 2012  sudo chown root test.txt
+ 2013  ls -l
+ 2014  nano notes.txt 
+ 2015  ./n
+ 2016  chmod 777 notes.txt 
+ 2017  ./notes.txt 
+ 2018  cat notes.txt 
+ 2019  less notes.txt 
+ 2020  history > commands.txt 
