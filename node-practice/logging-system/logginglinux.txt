@@ -53,4 +53,45 @@ uday:logging-system$ clear
 [H[2J[3Juday:logging-system$ mkdir src
 uday:logging-system$ cd src/
 uday:src$ mkdir controller models routes middleware
-uday:src$ [Kuday:src
+uday:src$ [Kuday:src$ cd controller/
+uday:controller$ touch auth.controller.js
+uday:controller$ cd ..
+uday:src$ cd models/
+uday:models$ touch user.model.js
+uday:models$ cd ..
+uday:src$ cd routes/
+uday:routes$ touch V[Kauth.routes.js
+uday:routes$ cd ..
+uday:src$ mid3[K3[K[K[K[Kcd middleware/
+uday:middleware$ touch error.middleware.js notFound.middleware.js[K[Auday:middleware$ touch error.middleware.js notFound.middleware.js rateLimit.middleware.js V[Kauth.middleware.js
+uday:middleware$ cd ..
+uday:src$ mkdir utils
+uday:src$ cd utils/
+uday:utils$ touch logger.js
+uday:utils$ cd ..
+uday:src$ cd ..touch logger.js[1P.js[1P.js[1P.js[1P.js[1P.js[1P.jsa.jsp.jsp.js
+uday:src$ cd ..
+uday:logging-system$ ls
+ access.log   logginglinux.txt   [0m[01;34mnode_modules[0m          package.json        [01;34msrc[0m
+ error.log    [01;34mlogs[0m              'npm install morgan'   package-lock.json
+uday:logging-system$ [Kuday:logging-system$ touch server.js .env .gitignore  README.md 
+uday:logging-system$ npm install express morgan bcryptjs jsonwebtoken dotenv
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K
+added 16 packages, and audited 100 packages in 2s
+⠧[1G[0K
+⠧[1G[0K23 packages are looking for funding
+⠧[1G[0K  run `npm fund` for details
+⠧[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+⠧[1G[0Kuday:logging-system$ npm install --save-dev nodemon
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K
+added 27 packages, and audited 127 packages in 2s
+⠧[1G[0K
+⠧[1G[0K28 packages are looking for funding
+⠧[1G[0K  run `npm fund` for details
+⠧[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+⠧[1G[0Kuday:logging-system$ [Kuday:logging-system$ [Kuday:logging-system$ exit
+exit
+
+Script done on 2026-02-26 22:47:39+05:30 [COMMAND_EXIT_CODE="0"]
