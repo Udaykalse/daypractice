@@ -1,0 +1,56 @@
+Script started on 2026-02-26 22:27:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="53" LINES="14"]
+]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ [K[A]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ npm install morgan
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K
+added 9 packages in 1s
+⠸[1G[0K[1mnpm[22m [96mnotice[39m
+[1mnpm[22m [96mnotice[39m New [33mminor[39m version of npm available! [33m11.6.2[39m -> [34m11.11.0[39m
+[1mnpm[22m [96mnotice[39m Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.11.0[39m
+[1mnpm[22m [96mnotice[39m To update run: [4mnpm install -g npm@11.11.0[24m
+[1mnpm[22m [96mnotice[39m
+⠸[1G[0K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ touch access.log  error [K.log
+]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ n
+pm init -y
+⠙[1G[0KWrote to /home/uday/Desktop/job/jobprap2026/node-practice/logging-system/package.json:
+
+{
+  "dependencies": {
+    "morgan": "^1.10.1"
+  },
+  "name": "logging-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
+
+
+
+⠙[1G[0K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ npm install express
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K
+added 74 packages, and audited 84 packages in 3s
+⠏[1G[0K
+⠏[1G[0K22 packages are looking for funding
+⠏[1G[0K  run `npm fund` for details
+⠏[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+⠏[1G[0K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ npm install express
+⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K
+up to date, audited 84 packages in 1s
+⠋[1G[0K
+⠋[1G[0K22 packages are looking for funding
+⠋[1G[0K  run `npm fund` for details
+⠋[1G[0K
+found [32m[1m0[22m[39m vulnerabilities
+⠋[1G[0K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ [K[A]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ [K]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ [K[A]0;uday@uday: ~/Desktop/job/jobprap2026/node-practice/logging-system[01;32muday@uday[00m:[01;34m~/Desktop/job/jobprap2026/node-practice/logging-system[00m$ PS1='\u:\W$ '
+uday:logging-system$ clear
+[H[2J[3Juday:logging-system$ mkdir src
+uday:logging-system$ cd src/
+uday:src$ mkdir controller models routes middleware
+uday:src$ [Kuday:src
